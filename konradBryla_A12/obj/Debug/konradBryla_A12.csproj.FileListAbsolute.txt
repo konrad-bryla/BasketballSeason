@@ -1,0 +1,32 @@
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\bin\Debug\2018 Season.mdb
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe.config
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.pdb
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csprojAssemblyReference.cache
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Form1.resources
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Properties.Resources.resources
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.GenerateResource.cache
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.exe
+C:\Users\konra\source\assignments\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.pdb
+D:\konradBryla_A12\konradBryla_A12\bin\Debug\2018 Season.mdb
+D:\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe.config
+D:\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe
+D:\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.pdb
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csprojAssemblyReference.cache
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Form1.resources
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Properties.Resources.resources
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.GenerateResource.cache
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.CoreCompileInputs.cache
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.exe
+D:\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.pdb
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\bin\Debug\2018 Season.mdb
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe.config
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.exe
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\bin\Debug\konradBryla_A12.pdb
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.AssemblyReference.cache
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Form1.resources
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.Properties.Resources.resources
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.GenerateResource.cache
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.csproj.CoreCompileInputs.cache
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.exe
+C:\Users\konra\OneDrive\Desktop\konradBryla_A12\konradBryla_A12\obj\Debug\konradBryla_A12.pdb
